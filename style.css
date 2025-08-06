@@ -164,7 +164,7 @@ position: absolute;
 }
 .child4{
     display: inline-block;
-    border: 2px solid;
+    /* border: 2px solid; */
     width: 285px;
     height: 40%;
      margin-left: 20px;
